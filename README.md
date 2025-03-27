@@ -1,1 +1,1 @@
-# Retrieval-Augmented-Generation-RAG-and-LLMs
+# Retrieval-Augmented-Generation(RAG)-and-LLMs
