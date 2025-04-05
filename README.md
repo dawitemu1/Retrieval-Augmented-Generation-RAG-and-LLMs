@@ -1,5 +1,6 @@
 # Retrieval-Augmented-Generation(RAG)-and-LLMs
 application of Retrieval-Augmented Generation (RAG) for multi-document Question and Answering. It showcased the power of combining retrieval and generation capabilities to provide accurate, context-aware answers sourced from multiple documents. Through detailed examples, performance evaluations, and interactive demonstrations, the notebook highlights the efficiency and scalability of RAG in handling complex Q&A tasks.
+
 implement Retrieval-Augmented Generation (RAG) systems capable of loading documents (including PDFs and images), utilizing FAISS for vector storage, and providing user query interfaces similar to ChatGPT:
 
 - RAG Chatbot Using Mistral-AI and FAISS: This command-line interface (CLI) application allows users to interact with PDF documents using the Mistral-AI v2.0 model and FAISS for efficient document retrieval. ​
